@@ -21,7 +21,7 @@
   ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=for-the-badge)
 
 - 🧠 **Toujours en quête d'apprentissage !**
-- 🚀 “Je suis vraiment hypé par la programmation et j'aimerais être obsédé car _on session beats talent._”
+- 🚀 “Je suis vraiment hypé par la programmation et j'aimerais être obsédé. ”
 
 ---
 
