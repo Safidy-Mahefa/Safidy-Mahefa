@@ -21,7 +21,7 @@
   ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=for-the-badge)
 
 - 🧠 **Toujours en quête d'apprentissage !**
-- 🚀 “Je suis vraiment hypé par la programmation et j'aimerais être obsédé. ”
+- 🚀 “Je suis vraiment hypé par la programmation. ”
 
 ---
 
@@ -65,4 +65,3 @@ Retrouve tous mes liens sociaux directement sur mon profil GitHub :
   <img src="https://komarev.com/ghpvc/?username=Safidy-Mahefa&style=flat-square&color=7F7FD5" alt="profile views" />
 </p>
 
-<!-- Feel free to customiser encore plus selon tes envies ! -->
