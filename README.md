@@ -1,67 +1,74 @@
-<!-- Bannière d'accueil -->
+<!-- Bannière -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,100:91EAE4&height=200&section=header&text=Salut%20👋%20Je%20suis%20Safidy-Mahefa&fontSize=40&fontAlign=50&fontColor=ffffff" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:4CA1AF&height=180&section=header&text=Safidy%20Mahefa&fontSize=38&fontColor=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=7F7FD5&center=true&vCenter=true&multiline=true&width=700&height=60&lines=%C3%89tudiant+en+Informatique+de+gestion,+G%C3%A9nie+logiciel,+IA+%E2%9C%A8;Passionn%C3%A9+par+le+code+et+l'apprentissage+continu+!+%F0%9F%92%BB" alt="Typing SVG" />
-</p>
-
----
-
-## 🙋‍♂️ À propos de moi
-
-- 🎓 **Étudiant en Informatique de gestion, Génie logiciel et Intelligence artificielle à l'ISPM**
-- 💻 **Compétences :**  
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=323330&style=for-the-badge)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=for-the-badge)
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
-  ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=for-the-badge)
-
-- 🧠 **Toujours en quête d'apprentissage !**
-- 🚀 “Je suis vraiment hypé par la programmation. ”
-
----
-
-## 🚩 Projet phare
-
-[![Repo](https://img.shields.io/badge/-Connais%20tu%20Madagascar-91EAE4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Safidy-Mahefa/connais-tu-madagascar)
-
-> Un projet dédié à la découverte de Madagascar !  
-> *(Clique sur le badge pour en savoir plus)*
-
----
-
-## 🎯 Centres d'intérêt
-
-- 🏀 **Basketball**  
-- 🎮 **Jeux vidéo** (passionné de Geometry Dash, jeux de réflexe)
-- 📸 **Photographie**
-- 🐉 **Dragon Ball**
-- 🎵 **Musique :** Imagine Dragons, Dubstep, NCS
-- ♟️ **Un peu d’échecs**
-
----
-
-## 📊 Mes stats GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Safidy-Mahefa&show_icons=true&theme=radical" alt="stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Safidy-Mahefa&layout=compact&hide=css,html&theme=radical" alt="top langs" height="170"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1200&color=4CA1AF&center=true&vCenter=true&width=600&lines=Étudiant+en+Génie+Logiciel+et+IA;Développeur+passionné+par+le+code;Apprentissage+continu+et+rigueur" />
 </p>
 
 ---
 
-## 🔗 Où me trouver
+## 👋 À propos
 
-Retrouve tous mes liens sociaux directement sur mon profil GitHub :  
-[![GitHub](https://img.shields.io/badge/-Safidy--Mahefa-181717?style=for-the-badge&logo=github)](https://github.com/Safidy-Mahefa)
+Je suis **Safidy Mahefa**, étudiant en **Informatique de gestion, Génie logiciel et Intelligence Artificielle** à l’**ISPM**.  
+Passionné par la programmation, je construis des projets solides en mettant l’accent sur la **compréhension profonde**, la **propreté du code** et la **progression continue**.
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Safidy-Mahefa&style=flat-square&color=7F7FD5" alt="profile views" />
+## 🧠 Compétences techniques
+
+### Langages & technologies
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=fff&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge"/>
 </p>
 
+---
+
+## 🚀 Projet mis en avant
+
+[![Repo](https://img.shields.io/badge/GitHub-Connais%20tu%20Madagascar-4CA1AF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Safidy-Mahefa/connais-tu-madagascar)
+
+**Connais-tu Madagascar** est un projet orienté découverte culturelle et valorisation du pays, combinant design simple, logique claire et structuration propre du code.
+
+---
+
+## 🎯 Objectifs
+
+- Approfondir mes compétences en **développement logiciel**
+- Maîtriser totalement les bases avant d’aborder des technologies avancées
+- Construire des projets concrets et utiles
+- Développer un profil solide et crédible pour le monde professionnel
+
+---
+
+## 📊 Statistiques GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Safidy-Mahefa&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Safidy-Mahefa&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 🔗 Me retrouver
+
+<p>
+  <a href="https://github.com/Safidy-Mahefa">
+    <img src="https://img.shields.io/badge/GitHub-Safidy--Mahefa-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/safidy-mahefa-andrianirainy-b450ab343">
+    <img src="https://img.shields.io/badge/LinkedIn-Safidy%20Mahefa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/SafidyMahefa">
+    <img src="https://img.shields.io/badge/X-@SafidyMahefa-000000?style=for-the-badge&logo=x"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61571112527333">
+    <img src="https://img.shields.io/badge/Facebook-Safidy%20Mahefa-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+</p>
