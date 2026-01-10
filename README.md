@@ -52,10 +52,11 @@ Projet orienté découverte culturelle et valorisation du pays, avec une attenti
 ## Statistiques GitHub
 
 <p align="center">
-  <!-- GitHub Readme Stats - main stats card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Safidy-Mahefa&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160"/>
-  <!-- Top languages - compact layout shows percentage bars -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Safidy-Mahefa&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="160"/>
+  <!-- Carte principale des stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Safidy-Mahefa&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub stats" />
+  <br/>
+  <!-- Langages utilisés (layout=compact affiche des barres avec pourcentages) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Safidy-Mahefa&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top languages" />
 </p>
 
 ---
