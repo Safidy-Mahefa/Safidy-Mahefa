@@ -10,27 +10,28 @@
 
 ---
 
-## 👋 À propos
+## À propos
 
 Je suis **Safidy Mahefa**, étudiant en **Informatique de gestion, Génie logiciel et Intelligence Artificielle** à l’**ISPM**.  
 Je m’intéresse particulièrement au **développement logiciel**, aux **fondamentaux solides** et à la **progression constante à travers des projets concrets**.
 
 ---
 
-## 🧠 Compétences techniques
+## Compétences techniques
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ---
 
-## 🚀 Projet mis en avant
+## Projet mis en avant
 
 [![Repo](https://img.shields.io/badge/GitHub-Connais%20tu%20Madagascar-181717?style=for-the-badge&logo=github)](https://github.com/Safidy-Mahefa/connais-tu-madagascar)
 
@@ -39,7 +40,7 @@ Projet orienté découverte culturelle et valorisation du pays, avec une attenti
 
 ---
 
-## 🎯 Objectifs
+## Objectifs
 
 - Approfondir mes compétences en développement logiciel  
 - Maîtriser parfaitement les bases avant les technologies avancées  
@@ -48,16 +49,16 @@ Projet orienté découverte culturelle et valorisation du pays, avec une attenti
 
 ---
 
-## 📊 Statistiques GitHub
+## Statistiques GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Safidy-Mahefa&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Safidy-Mahefa&layout=compact&theme=github_dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Safidy-Mahefa&layout=default&theme=github_dark&hide_border=true" height="160"/>
 </p>
 
 ---
 
-## 🔗 Me retrouver
+## Me retrouver
 
 <p>
   <a href="https://github.com/Safidy-Mahefa">
