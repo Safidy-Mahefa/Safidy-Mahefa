@@ -13,7 +13,7 @@
 ## À propos
 
 Je suis **Safidy Mahefa**, étudiant en **Informatique de gestion, Génie logiciel et Intelligence Artificielle** à l’**ISPM**.  
-Je m’intéresse particulièrement au **data science et machine learning**, aux **fondamentaux solides** et à la **progression constante à travers des projets concrets**.
+Je m’intéresse particulièrement à la **progression constante à travers des projets concrets**.
 
 ---
 
