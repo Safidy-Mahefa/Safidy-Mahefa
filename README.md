@@ -75,8 +75,8 @@ Je suis **Safidy Mahefa**, étudiant en **Informatique de gestion, Génie logici
 ## Statistiques GitHub
 
 <p align="center">
-  <img height="180" alt="Statistiques GitHub" src="https://github-readme-stats.vercel.app/api?username=Safidy-Mahefa&show_icons=true&count_private=true&hide_border=false&title_color=FF5442&icon_color=FFC400&text_color=333333&bg_color=F8F7EB&border_color=FF5442&rank_icon=github" />
-  <img height="180" alt="Langages les plus utilisés" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Safidy-Mahefa&layout=compact&langs_count=8&hide_border=false&title_color=FF5442&text_color=333333&bg_color=F8F7EB&border_color=FF5442" />
+  <img height="190" alt="Statistiques GitHub" src="./profile-summary-card-output/default/3-stats.svg" />
+  <img height="190" alt="Langages les plus utilisés" src="./profile-summary-card-output/default/1-repos-per-language.svg" />
 </p>
 
 <p align="center">
@@ -84,7 +84,8 @@ Je suis **Safidy Mahefa**, étudiant en **Informatique de gestion, Génie logici
 </p>
 
 <p align="center">
-  <img alt="Graphique d’activité" src="https://github-readme-activity-graph.vercel.app/graph?username=Safidy-Mahefa&bg_color=F8F7EB&color=FF5442&line=FF5442&point=FFC400&area=true&area_color=FF5442&hide_border=true" />
+  <img height="190" alt="Langages les plus utilisés dans les commits" src="./profile-summary-card-output/default/2-most-commit-language.svg" />
+  <img height="190" alt="Moments de la journée les plus productifs" src="./profile-summary-card-output/default/4-productive-time.svg" />
 </p>
 
 ---
