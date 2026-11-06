@@ -1,6 +1,6 @@
 <!-- ===== HEADER ===== -->
 <p align="center">
-  <img src="./assets/wheel-stacks-officiels.svg" alt="Stack technique de Safidy Mahefa : Go, JavaScript, PHP, Python, Java, C, HTML5, CSS3, Wails, WebGL2, JavaFX, MySQL, Git, GitHub, VS Code" width="780" />
+  <img src="wheel-stacks-officiels.svg" alt="Stack technique de Safidy Mahefa : Go, JavaScript, PHP, Python, Java, C, HTML5, CSS3, Wails, WebGL2, JavaFX, MySQL, Git, GitHub, VS Code" width="780" />
 </p>
 
 <h1 align="center">Safidy Mahefa</h1>
