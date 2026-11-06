@@ -6,8 +6,7 @@
 <h1 align="center">Safidy Mahefa</h1>
 
 <p align="center">
-  <strong>Étudiant en Génie Logiciel & Intelligence Artificielle · ISPM</strong><br/>
-  Développeur passionné par le code propre, la rigueur et l’apprentissage continu
+  <strong>Étudiant en Génie Logiciel & Intelligence Artificielle · ISPM</strong>
 </p>
 
 <p align="center">
@@ -21,7 +20,6 @@
 ## À propos
 
 Je suis **Safidy Mahefa**, étudiant en **Informatique de gestion, Génie logiciel et Intelligence Artificielle** à l’**ISPM** (Madagascar).
-Je progresse à travers des **projets concrets**, avec une attention particulière portée à la **structure du code**, à la **clarté** et à la **simplicité**.
 
 > *Never reinvent the wheel* : comprendre les bases en profondeur avant de construire dessus.
 
@@ -102,7 +100,7 @@ Projet orienté découverte culturelle et valorisation du pays, avec une attenti
 
 ## Objectifs
 
-- Approfondir mes compétences en développement logiciel
+- Approfondir mes compétences en développement
 - Maîtriser parfaitement les bases avant les technologies avancées
 - Construire des projets utiles et bien structurés
 - Développer un profil solide et professionnel
