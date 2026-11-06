@@ -6,7 +6,7 @@
 <h1 align="center">Safidy Mahefa</h1>
 
 <p align="center">
-  <strong>Étudiant en Génie Logiciel & Intelligence Artificielle · ISPM</strong>
+  <strong>Développeur Full-Stack</strong>
 </p>
 
 <p align="center">
